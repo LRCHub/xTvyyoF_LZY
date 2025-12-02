@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Shape of You",
+  "base_artist": "Ed Sheeran",
+  "createdAt": "2025-12-02T11:19:23.577225Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/01_Shape_of_You_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Shape of You",
+      "artist": "For Those I Love",
+      "has_synced": false,
+      "path": "select/02_The_Shape_of_You_For_Those_I_Love.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shape of You",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Stefano",
+      "has_synced": true,
+      "path": "select/03_Shape_of_You_Scott_Bradlee's_Postmodern_Jukebox_feat._Stefano.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shape of You",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/04_Shape_of_You_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/05_Shape_of_You_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shape Of You",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/06_Shape_Of_You_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/07_Shape_of_You_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shape of You (album version)",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/08_Shape_of_You_(album_version)_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shape of You",
+      "artist": "Eat Your Heart Out",
+      "has_synced": true,
+      "path": "select/09_Shape_of_You_Eat_Your_Heart_Out.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shape of You",
+      "artist": "Solence",
+      "has_synced": true,
+      "path": "select/10_Shape_of_You_Solence.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shape of You - Abheri - Shudha Dhanyasi - Adi Tala - Carnatic Mix",
+      "artist": "IndianRaga feat. Mahesh Raghvan, Vinod Krishnan & Aditya Rao",
+      "has_synced": true,
+      "path": "select/11_Shape_of_You_-_Abheri_-_Shudha_Dhanyasi_-_Adi_Tala_-_Carnatic_Mix_IndianRaga_feat._Mahesh_Raghvan,_Vinod_Krishnan_&_Aditya_Rao.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "shape of you  abheri  shudha dhanyasi  adi tala carnatic mix",
+      "artist": "indianraga",
+      "has_synced": true,
+      "path": "select/12_shape_of_you_abheri_shudha_dhanyasi_adi_tala_carnatic_mix_indianraga.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "shape of you",
+      "artist": "ed sheeran",
+      "has_synced": true,
+      "path": "select/13_shape_of_you_ed_sheeran.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shape of You (Acoustic)",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/14_Shape_of_You_(Acoustic)_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "shape of you acoustic",
+      "artist": "ed sheeran",
+      "has_synced": true,
+      "path": "select/15_shape_of_you_acoustic_ed_sheeran.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shape Of You",
+      "artist": "Neil Young",
+      "has_synced": false,
+      "path": "select/16_Shape_Of_You_Neil_Young.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Shape Of You",
+      "artist": "Neil Young & Crazy Horse",
+      "has_synced": false,
+      "path": "select/17_Shape_Of_You_Neil_Young_&_Crazy_Horse.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/18_Shape_of_You_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/19_Shape_of_You_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "has_synced": false,
+      "path": "select/pl_01_Shape_of_You_Ed_Sheeran.txt"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
-# Ed Sheeran – Shape of You
+# エド・シーラン – Shape of You
 
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
 [00:09.65] The club isn't the best place to find a lover
-[00:12.09] So the bar is where I go (mm-mm)
+[00:12.08] So the bar is where I go (mm-mm)
 [00:14.81] Me and my friends at the table doing shots
 [00:17.03] Drinking fast, and then we talk slow (mm-mm)
 [00:19.69] You come over and start up a conversation with just me
@@ -12,23 +12,23 @@
 [00:24.42] Take my hand, stop, put "Van the Man" on the jukebox
 [00:27.26] And then we start to dance
 [00:28.91] And now I'm singing like
-[00:40.90] 
+[00:40.89] 
 [00:29.82] Girl, you know I want your love
 [00:32.21] Your love was handmade for somebody like me
-[00:35.22] Come on now, follow my lead
+[00:35.21] Come on now, follow my lead
 [00:37.31] I may be crazy, don't mind me
 [00:39.64] Say, "Boy, let's not talk too much
 [00:42.28] Grab on my waist and put that body on me"
-[00:45.29] Come on now, follow my lead
+[00:45.28] Come on now, follow my lead
 [00:47.28] Come, come on now, follow my lead
 [00:49.17] (Mm-mm)
 [00:52.67] 
 [00:50.75] I'm in love with the shape of you
 [00:53.14] We push and pull like a magnet do
-[00:55.68] Although my heart is falling too
+[00:55.67] Although my heart is falling too
 [00:58.14] I'm in love with your body
 [01:00.60] Last night you were in my room
-[01:03.18] And now my bed sheets smell like you
+[01:03.17] And now my bed sheets smell like you
 [01:05.34] Every day discovering something brand new
 [01:08.01] Oh, I'm in love with your body
 [01:23.01] 
@@ -56,12 +56,12 @@
 [01:52.20] Your love was handmade for somebody like me
 [01:55.39] Come on now, follow my lead
 [01:57.26] I may be crazy, don't mind me
-[01:59.57] Say, "Boy, let's not talk too much
+[01:59.56] Say, "Boy, let's not talk too much
 [02:02.26] Grab on my waist and put that body on me"
 [02:05.31] Come on now, follow my lead
 [02:07.12] Come, come on now, follow my lead
-[02:09.16] (Mm-mm)
-[02:12.66] 
+[02:09.15] (Mm-mm)
+[02:12.65] 
 [02:10.56] I'm in love with the shape of you
 [02:13.03] We push and pull like a magnet do
 [02:15.65] Although my heart is falling too
@@ -85,7 +85,7 @@
 [02:55.05] Come on, be my baby, come on
 [02:57.65] Come on, be my baby, come on
 [03:00.02] Come on, be my baby, come on
-[03:02.44] Come on, be my baby, come on
+[03:02.43] Come on, be my baby, come on
 [03:05.03] Come on, be my baby, come on
 [03:07.52] Come on, be my baby, come on
 [03:21.52] 
@@ -95,12 +95,12 @@
 [03:18.11] I'm in love with your body
 [03:20.52] Last night you were in my room
 [03:23.12] And now my bed sheets smell like you
-[03:25.38] Every day discovering something brand new
+[03:25.37] Every day discovering something brand new
 [03:28.18] Oh, I'm in love with your body
 [03:43.18] 
 [03:30.27] Come on, be my baby, come on
 [03:32.65] Come on, be my baby, come on (I'm in love with your body)
-[03:35.19] Come on, be my baby, come on
+[03:35.18] Come on, be my baby, come on
 [03:37.53] Come on, be my baby, come on (oh, I'm in love with your body)
 [03:40.24] Come on, be my baby, come on
 [03:42.65] Come on, be my baby, come on (I'm in love with your body)
